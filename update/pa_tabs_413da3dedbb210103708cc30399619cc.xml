@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">453da3dedbb210103708cc30399619ca</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">0d3da3dedbb210103708cc30399619c9</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 17:04:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>413da3dedbb210103708cc30399619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_527962_iplookup">9a83361adb3210103708cc3039961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">9a83361adb3210103708cc3039961910</sys_scope>
+        <sys_update_name>pa_tabs_413da3dedbb210103708cc30399619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 17:04:58</sys_updated_on>
+    </pa_tabs>
+</record_update>
